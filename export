@@ -1,0 +1,4 @@
+#!/bin/bash
+
+declare -x OPENWEATHER_API_KEY="97eec96ae1859dcae7ded560a495bbf3"
+declare -x CITY_NAME="London"
